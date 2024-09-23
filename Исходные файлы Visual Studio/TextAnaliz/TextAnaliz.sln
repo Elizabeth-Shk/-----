@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Частотный анализ текста (символьный)", "SymbolicTextAnalysis\Частотный анализ текста (символьный).csproj", "{65D0E99C-D544-4D6B-8E6C-51672B980DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D0E99C-D544-4D6B-8E6C-51672B980DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D0E99C-D544-4D6B-8E6C-51672B980DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D0E99C-D544-4D6B-8E6C-51672B980DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D0E99C-D544-4D6B-8E6C-51672B980DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD9E0FF-A9A3-43F0-866D-8761C0BF6FD3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe.config
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Simvol.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Text_.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Simvol.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\TextAnaliz.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Text_.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csprojAssemblyReference.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form1.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form2.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Properties.Resources.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Отчет.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Справка.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csproj.GenerateResource.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csproj.CopyComplete
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.pdb
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe.config
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.pdb
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Simvol.dll
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Text_.dll
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Simvol.pdb
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\TextAnaliz.pdb
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Text_.pdb
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csproj.AssemblyReference.cache
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csproj.SuggestedBindingRedirects.cache
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form1.resources
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form2.resources
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Properties.Resources.resources
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Отчет.resources
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Справка.resources
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csproj.GenerateResource.cache
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csproj.CoreCompileInputs.cache
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\Частотный анализ текста (символьный).csproj.CopyComplete
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.exe
+D:\Курс 3\РПМ\Курсовой проекст. Частотный анализ текста (символьный)\Исходные файлы по каждой версии\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.pdb

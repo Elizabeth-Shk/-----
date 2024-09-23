@@ -1,0 +1,83 @@
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe.config
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\bin\Debug\TextAnaliz.dll
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\bin\Debug\TextAnaliz.pdb
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csprojAssemblyReference.cache
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form1.resources
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Properties.Resources.resources
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Отчет.resources
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.GenerateResource.cache
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CopyComplete
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csprojAssemblyReference.cache
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form1.resources
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form2.resources
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Properties.Resources.resources
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Отчет.resources
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.GenerateResource.cache
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe.config
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\TextAnaliz.dll
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\TextAnaliz.pdb
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CopyComplete
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe.config
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.pdb
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\TextAnaliz.dll
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\TextAnaliz.pdb
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csprojAssemblyReference.cache
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form1.resources
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form2.resources
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Properties.Resources.resources
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Отчет.resources
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.GenerateResource.cache
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CoreCompileInputs.cache
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CopyComplete
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.exe
+H:\329191_19\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Справка.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe.config
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\TextAnaliz.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csprojAssemblyReference.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form1.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form2.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Properties.Resources.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Отчет.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Справка.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.GenerateResource.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CopyComplete
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\Simvol.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\Text_.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\Simvol.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz версия 2\SymbolicTextAnalysis\bin\Debug\Text_.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csprojAssemblyReference.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form1.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Form2.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Properties.Resources.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Отчет.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.Справка.resources
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.GenerateResource.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe.config
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.exe
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\SymbolicTextAnalysis.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Simvol.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Text_.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Simvol.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\TextAnaliz.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\bin\Debug\Text_.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\TextAnaliz\SymbolicTextAnalysis\obj\Debug\SymbolicTextAnalysis.csproj.CopyComplete

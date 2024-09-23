@@ -1,0 +1,12 @@
+H:\Курсач_РПМ\Шкитова\Vers 1\Simvol\Simvol\bin\Debug\Simvol.dll
+H:\Курсач_РПМ\Шкитова\Vers 1\Simvol\Simvol\bin\Debug\Simvol.pdb
+H:\Курсач_РПМ\Шкитова\Vers 1\Simvol\Simvol\obj\Debug\Simvol.csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\Vers 1\Simvol\Simvol\obj\Debug\Simvol.dll
+H:\Курсач_РПМ\Шкитова\Vers 1\Simvol\Simvol\obj\Debug\Simvol.pdb
+H:\Курсач_РПМ\Шкитова\Vers 1\Simvol\Simvol\obj\Debug\Simvol.csprojAssemblyReference.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\Simvol\Simvol\bin\Debug\Simvol.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\Simvol\Simvol\bin\Debug\Simvol.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\Simvol\Simvol\obj\Debug\Simvol.csprojAssemblyReference.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\Simvol\Simvol\obj\Debug\Simvol.csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\Simvol\Simvol\obj\Debug\Simvol.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\Simvol\Simvol\obj\Debug\Simvol.pdb

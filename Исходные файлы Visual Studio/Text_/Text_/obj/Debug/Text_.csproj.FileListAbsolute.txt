@@ -1,0 +1,11 @@
+H:\Курсач_РПМ\Шкитова\Vers 1\Text_\Text_\bin\Debug\Text_.dll
+H:\Курсач_РПМ\Шкитова\Vers 1\Text_\Text_\bin\Debug\Text_.pdb
+H:\Курсач_РПМ\Шкитова\Vers 1\Text_\Text_\obj\Debug\Text_.csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\Vers 1\Text_\Text_\obj\Debug\Text_.dll
+H:\Курсач_РПМ\Шкитова\Vers 1\Text_\Text_\obj\Debug\Text_.pdb
+H:\Курсач_РПМ\Шкитова\Vers 1\Text_\Text_\obj\Debug\Text_.csprojAssemblyReference.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\Text_\Text_\bin\Debug\Text_.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\Text_\Text_\bin\Debug\Text_.pdb
+H:\Курсач_РПМ\Шкитова\Vers 2\Text_\Text_\obj\Debug\Text_.csproj.CoreCompileInputs.cache
+H:\Курсач_РПМ\Шкитова\Vers 2\Text_\Text_\obj\Debug\Text_.dll
+H:\Курсач_РПМ\Шкитова\Vers 2\Text_\Text_\obj\Debug\Text_.pdb
